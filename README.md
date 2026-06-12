@@ -5,10 +5,10 @@
 ### MCA Student • Python Developer • Django Developer • Database Enthusiast
 
 <p>
-  <a href="mailto:amalthomasdev@gmail.com">
+  <a href="mailto:amalthomasmca@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge">
   </a>
-  <a href="https://github.com/Amal25pmc114">
+  <a href="https://github.com/amaltmca">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge">
   </a>
 </p>
@@ -156,9 +156,9 @@ Open To:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amal25pmc114&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amaltmca&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal25pmc114&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaltmca&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -168,7 +168,7 @@ Open To:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Amal25pmc114&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=amaltmca&theme=tokyonight"/>
 
 </p>
 
@@ -176,9 +176,9 @@ Open To:
 
 ## Connect With Me
 
-- GitHub: https://github.com/Amal25pmc114
-- Email: amalthomasdev@gmail.com
-- LinkedIn: Add Your LinkedIn URL
+- GitHub: https://github.com/amaltmca
+- Email: amalthomasmca@gmail.com
+- LinkedIn: www.linkedin.com/in/amal-thomas-4925592ab
 
 ---
 
